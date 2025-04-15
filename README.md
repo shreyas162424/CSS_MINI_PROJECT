@@ -35,6 +35,7 @@ Rocky Gallery is a sleek and professional website showcasing various galleries, 
 
 To run the Rocky Gallery project locally, follow these steps:
 
-    
+(https://shreyas162424.github.io/CSS_MINI_PROJECT/)
+
   
 
